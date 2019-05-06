@@ -4,3 +4,6 @@ Algorithms used to solve these: min-conflicts for both sudoku and n-queens, and 
 
 Tutorial Posts:
 https://medium.com/@carlosgonzalez_39141/using-ai-to-solve-the-n-queens-problem-2a5a9cc5c84c
+
+For more info visit: www.cggonzalez.com
+
